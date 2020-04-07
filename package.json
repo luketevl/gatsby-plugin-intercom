@@ -1,12 +1,12 @@
 {
-  "name": "gatsby-plugin-intercom",
-  "version": "0.1.4",
-  "description": "Gatsby plugin to add Intercom button onto a site",
-  "author": "Heinrich Filter <heinrich@intelligentrouting.io>",
+  "name": "gatsby-plugin-intercom-lkt",
+  "version": "0.0.1",
+  "description": "Gatsby plugin to add Intercom button onto a site with settings",
+  "author": "Lukete Henrique<luketevl@gmail.com>",
   "license": "MIT",
   "respository": {
     "type": "git",
-    "url": "https://github.com/HeinrichFilter/gatsby-plugin-intercom"
+    "url": "https://github.com/luketevl/gatsby-plugin-intercom"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

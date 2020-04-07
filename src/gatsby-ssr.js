@@ -5,6 +5,7 @@ exports.onRenderBody = ({ setPostBodyComponents }, pluginOptions) => {
     process.env.NODE_ENV === `production` ||
     pluginOptions.includeInDevelopment
   ) {
+    console.log(pluginOptions);
     return setPostBodyComponents([
       <script
         key={`gatsby-plugin-intercom`}
